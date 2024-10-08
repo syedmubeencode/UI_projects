@@ -46,3 +46,9 @@
 To check logs after PUSH
 
 git log --oneline
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+To revert the code from feature branch
+
+git revert HEAD
