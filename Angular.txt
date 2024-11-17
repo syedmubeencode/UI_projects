@@ -1,0 +1,4 @@
+If Angular is not installed then use below command
+
+-> npm install -g @angular/cli
+

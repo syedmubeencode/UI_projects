@@ -1,0 +1,27 @@
+
+	--------------------------------Let's start--------------------------
+	
+-> To check Node.js is installed or not
+	node -v
+	
+-> To check nmp librery is installed or not
+
+	npm -v
+	
+-> To create a small project
+
+	npx create-react-app <name of your project>
+	
+-> To start the project
+
+	npm start
+	
+-> To stop the project
+
+	cnt + c
+	
+-> If npm start cmd not working after taking pull
+
+	rmdir /s /q node_modules
+	del package-lock.json
+	npm install
